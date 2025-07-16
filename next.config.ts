@@ -1,7 +1,17 @@
-import type { NextConfig } from "next";
+// File: next.config.ts
 
-const nextConfig: NextConfig = {
-  /* config options here */
+/** @type {import('next').NextConfig} */
+
+const nextConfig = {
+  output: 'export',
+  images: {
+    unoptimized: true,
+  },
+  basePath: '/',
+  assetPrefix: '/',
+  images: { 
+    unoptimized: true
+  },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
