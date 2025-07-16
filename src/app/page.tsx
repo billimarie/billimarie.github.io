@@ -41,7 +41,22 @@ const projects = [
     img: "/placeholder5.jpg",
     link: "/the-last-forest-on-earth",
   },
-];
+]
+const tutorials = [
+  {
+    title: "Tutorial #1",
+    description:
+      "TBD",
+    img: "/placeholder1.jpg",
+    link: "/tutorial-1",
+  }, {
+    title: "Tutorial #2",
+    description:
+      "TBD",
+    img: "/placeholder2.jpg",
+    link: "/tutorial-2",
+  },
+]
 
 export default function Home() {
   return (
@@ -54,6 +69,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-center mb-10 text-gray-800">
         AI Engineering Showcase
       </h1>
+
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         {projects.map((project, i) => (
           <Link key={i} href={project.link} passHref>
@@ -77,6 +93,38 @@ export default function Home() {
           </Link>
         ))}
       </div>
+
+      <h2 className="text-4xl font-bold text-center mt-16 mb-10 text-gray-800">
+        Articles, Tutorials, and Courses
+      </h2>
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        {tutorials.map((tutorial, i) => (
+          <Link key={i} href={tutorial.link} passHref>
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+                className="block"
+              >
+                <Card className="overflow-hidden rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-300">
+                  <img
+                    src={tutorial.img}
+                    alt={tutorial.title}
+                    className="h-48 w-full object-cover"
+                  />
+                  <CardContent className="p-4">
+                    <h2 className="text-xl font-semibold text-gray-900">{tutorial.title}</h2>
+                    <p className="text-gray-600 text-sm mt-2">{tutorial.description}</p>
+                  </CardContent>
+                </Card>
+              </motion.div>
+          </Link>
+        ))}
+      </div>
+
+      <p className="mt-20 text-gray-100 text-center mx-auto">
+        <Link href="/egg">End :)</Link>
+      </p>
     </motion.div>
   );
 }
