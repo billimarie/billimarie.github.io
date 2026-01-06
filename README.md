@@ -1,13 +1,18 @@
 # About
-## Regenerative Technologist · Multidisciplinary Artist · Eco-Restoration Builder
+## Writer, Earthworker, and Programmer
 
-> Billimarie creates story-driven experiences that help people, especially future generations, thrive in alignment with nature, intuition, heart, and spirit.
+Billimarie's work consists of exploring the intersection of nature, technology, and storytelling.
 
-Billimarie is a writer, earthworker, and community organizer on behalf of regenerative agriculture in the desert.
+Her journey began with a typewriter and a desire to connect with strangers through giving away spontaneous Free Poetry.
 
-She is passionate about reimaginging how people can work together to restore ecosystems across Earth.
+Today, that desire has taken root in the Mojave Desert, where she founded a regenerative agriculture nonprofit to help grow nutritional food, healthy soil, and community resilience.
+
+Billimarie creates story-driven experiences that help people, especially future generations, thrive in alignment with nature, intuition, heart, and spirit. As a community organizer, she is passionate about reimagining how people can work together to restore ecosystems across Earth.
+
 
 Her work bridges a variety of mediums, including poetry, film, essays, fiction, painting, photography, and immersive outdoor experiences.
+
+> "Nature is the best technology we have at saving the Earth."
 
 # Values
 
