@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Navigation
+
+- [About](#about)
+- [Websites](#websites)
+- [Projects](#projects)
+- Contact
 
 ## About
 
@@ -13,13 +18,6 @@ Her work bridges full-stack engineering, LLM-powered assistants, low-code platfo
 - Billimarie.com: An archive of personal and professional projects
 - ForEveryStarATree.org: A nonprofit farm in the desert, dedicated to cultivating healthy soil, pesticide-free food, and community resilience.
 - StarryNightSkoolie.com: A unique Airbnb pop-up. 100% of proceeds go directly to conservation efforts.
-
-## Navigation
-
-- Home
-- About
-- Projects
-- Contact
 
 ## Projects
 
