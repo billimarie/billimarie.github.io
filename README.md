@@ -1,10 +1,3 @@
-## Navigation
-
-- [About](#about)
-- [Websites](#websites)
-- [Projects](#projects)
-- Contact
-
 ## About
 
 Billimarie is a writer, earthworker, and community organizer on behalf of regenerative agriculture in the desert.
@@ -12,6 +5,13 @@ Billimarie is a writer, earthworker, and community organizer on behalf of regene
 She is passionate about reimaginging how people can work together to restore ecosystems across Earth.
 
 Her work bridges a variety of mediums, including poetry, film, essays, fiction, painting, photography, and immersive outdoor experiences.
+
+## Navigation
+
+- [About](#about)
+- [Websites](#websites)
+- [Projects](#projects)
+- Contact
 
 ## Websites
 
