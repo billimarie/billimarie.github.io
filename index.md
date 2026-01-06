@@ -1,9 +1,7 @@
----
-title: Billimarie Lubiano Robinson
-description: Creating story-driven experiences for future generations.
----
-
 # Who Is Billimarie?
+
+Billimarie Lubiano Robinson is dedicated to creating story-driven experiences for future generations and nature.
+
 ## Writer, Earthworker, and Programmer
 
 Billimarie's work consists of exploring the intersection of nature, technology, and storytelling.
