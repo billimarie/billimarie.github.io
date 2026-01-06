@@ -35,3 +35,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - About
 - Projects
 - Contact
+
+## Projects
+
+### The Last Forest On Earth
+
+An interactive children's novel.
+
+### Earthworkers
+
+A RAG-powered assistant trained on volunteer & guest materials for regenerative spaces. Also includes a sustainability tracker for tree plantings, volunteer hours, and biodiversity markers.
+
+## Tutorials
+
+TBD
