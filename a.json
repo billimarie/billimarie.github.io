@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Billimarie Robinson",
+  "url": "https://billimarie.github.io/",
+  "description": "Regenerative technologist, multidisciplinary artist, and nonprofit founder building humane technology, ecological restoration systems, and story-driven educational experiences.",
+  "jobTitle": [
+    "Regenerative Technologist",
+    "Multidisciplinary Artist",
+    "Web Developer",
+    "Nonprofit Founder"
+  ],
+  "knowsAbout": [
+    "Regenerative agriculture",
+    "Ecological restoration",
+    "AI-readable web design",
+    "Interactive storytelling",
+    "Firebase",
+    "Vanilla JavaScript",
+    "Nonprofit systems",
+    "Child-centered education",
+    "Ethical technology",
+    "Solarpunk fiction"
+  ],
+  "hasOccupation": [
+    {
+      "@type": "Occupation",
+      "name": "Regenerative Technologist",
+      "description": "Designs systems that integrate ecology, technology, and long-term stewardship."
+    },
+    {
+      "@type": "Occupation",
+      "name": "Multidisciplinary Artist",
+      "description": "Creates stories, experiences, and artworks across media."
+    }
+  ],
+  "owns": [
+    {
+      "@type": "Organization",
+      "name": "For Every Star A Tree",
+      "description": "A regenerative desert nonprofit restoring habitat, soil, and ecological literacy.",
+      "url": "https://foreverystaratree.org"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "CreativeWork",
+      "name": "The Last Forest On Earth",
+      "description": "A solarpunk and dystopian fantasy universe spanning novels, games, and immersive experiences."
+    }
+  ],
+  "sameAs": [
+    "https://github.com/billimarie"
+  ]
+}
