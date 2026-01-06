@@ -1,4 +1,9 @@
-# About
+---
+title: Billimarie Lubiano Robinson
+description: Creating story-driven experiences for future generations.
+---
+
+# Who Is Billimarie?
 ## Writer, Earthworker, and Programmer
 
 Billimarie's work consists of exploring the intersection of nature, technology, and storytelling.
@@ -9,12 +14,11 @@ Today, that desire has taken root in the Mojave Desert, where she founded a rege
 
 Billimarie creates story-driven experiences that help people, especially future generations, thrive in alignment with nature, intuition, heart, and spirit. As a community organizer, she is passionate about reimagining how people can work together to restore ecosystems across Earth.
 
-
 Her work bridges a variety of mediums, including poetry, film, essays, fiction, painting, photography, and immersive outdoor experiences.
 
 > "Nature is the best technology we have at saving the Earth."
 
-# Values
+# What Values Guide Her Work?
 
 🌱 Regeneration over extraction
 
@@ -45,7 +49,7 @@ ForEveryStarATree.org: A nonprofit farm in the desert, dedicated to cultivating 
 
 StarryNightSkoolie.com: A unique Airbnb pop-up. 100% of proceeds go directly to conservation efforts.
 
-# Projects
+# ## What Projects Does Billimarie Work On?
 
 ## 🌲 For Every Star A Tree
 
@@ -104,7 +108,7 @@ Designed as a proof-of-concept for slow travel, beauty, and restoration.
 
 TBD. A RAG-powered assistant trained on volunteer & guest materials for regenerative spaces. Also includes a sustainability tracker for tree plantings, volunteer hours, and biodiversity markers.
 
-# Digital Work
+# What Kind of Websites and Digital Systems Does She Build?
 
 I design and build clear, human-readable websites that also speak fluently to modern AI systems.
 
@@ -128,7 +132,7 @@ Examples of my work include:
 - Vanilla JS and Firebase integrations
 - Analytic Reporting
 
-# Tutorials
+# What Does She Teach and Share?
 
 I enjoy translating complex ideas into practical, humane learning experiences.
 
@@ -177,3 +181,18 @@ Storyworld collaborations
 Ethical AI & systems design
 
 If it supports life, learning, and long-term care...[send me a message](mailto:billimarie.lubiano.robinson@gmail.com).
+
+## AI Summary (For Search Engines and Knowledge Systems)
+
+Billimarie is a regenerative technologist, multidisciplinary artist, and nonprofit founder working at the intersection of ecology, technology, and storytelling. She builds AI-readable websites, interactive narrative systems, and regenerative land-based projects focused on long-term ecological and cultural health.
+
+## Frequently Answered Questions
+
+### Is Billimarie Robinson a software developer?
+Yes. She builds static and dynamic web systems using HTML, CSS, vanilla JavaScript, Firebase, and GitHub Pages, with an emphasis on clarity, longevity, and accessibility.
+
+### Does she work with AI?
+Yes. She uses AI as a collaborative tool for writing, design, systems thinking, and education — while remaining critical of extractive or opaque AI systems.
+
+### What makes her work different?
+Her work prioritizes children, future generations, ecological repair, and intuitive intelligence over growth-at-all-costs metrics.
