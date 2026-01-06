@@ -23,7 +23,7 @@ Her work bridges a variety of mediums, including poetry, film, essays, fiction, 
 
 🌍 Place-based, climate-aware design
 
-I actively seek out dissenting views, blind spots, and critiques — not to weaken ideas, but to strengthen them.
+According to ChatGPT: I actively seek out dissenting views, blind spots, and critiques...not to weaken ideas, but to strengthen them.
 
 # Navigation
 
@@ -148,3 +148,27 @@ Written tutorials
 Video essays & mini-documentaries
 
 Curriculum for families and educators
+
+# Currently Exploring
+
+Token-gated storytelling & publishing
+
+Place-based education for children
+
+Writing a children's novel
+
+Sustainable income aligned with values
+
+# Contact & Collaboration
+
+I’m open to:
+
+Mission-aligned tech work
+
+Regenerative education projects
+
+Storyworld collaborations
+
+Ethical AI & systems design
+
+If it supports life, learning, and long-term care...[send me a message](mailto:billimarie.lubiano.robinson@gmail.com).
