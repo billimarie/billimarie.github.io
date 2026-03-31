@@ -5,6 +5,8 @@ permalink: /projects/
 ---
 
 # Projects
+
+
 | Name | Description | Updated |
 | ----------- | ----------- | ------- |
 | For Every Star, A Tree | Website | March 30th, 2026 |
