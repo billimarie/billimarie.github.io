@@ -2,7 +2,7 @@
 
 Billimarie Lubiano Robinson is dedicated to creating story-driven experiences for future generations and nature.
 
-## Writer, Earthworker, and Programmer
+## Writer, Earthworker, and STEM Teacher
 
 Billimarie's work consists of exploring the intersection of nature, technology, and storytelling.
 
@@ -13,6 +13,8 @@ Today, that desire has taken root in the Mojave Desert, where she founded a rege
 Billimarie creates story-driven experiences that help people, especially future generations, thrive in alignment with nature, intuition, heart, and spirit. As a community organizer, she is passionate about reimagining how people can work together to restore ecosystems across Earth.
 
 Her work bridges a variety of mediums, including poetry, film, essays, fiction, painting, photography, and immersive outdoor experiences.
+
+She has experience teaching grades TK-12 Robotics, Coding/Programming, and Computer Engineering.
 
 > "Nature is the best technology we have at saving the Earth."
 
