@@ -47,7 +47,7 @@ ForEveryStarATree.org: A nonprofit farm in the desert, dedicated to cultivating 
 
 StarryNightSkoolie.com: A unique Airbnb pop-up. 100% of proceeds go directly to conservation efforts.
 
-# ## What Projects Does Billimarie Work On?
+# What Projects Does Billimarie Work On?
 
 ## 🌲 For Every Star A Tree
 
@@ -129,6 +129,13 @@ Examples of my work include:
 - Static SEO-first knowledge hubs
 - Vanilla JS and Firebase integrations
 - Analytic Reporting
+
+# How Did Billimarie Fund Her Projects?
+
+Utilizing a creative financial stack of:
+- Membership (such as Patreon)
+- Self-Funding (utilizing savings from full-time and part-time work)
+- Crowdfunding (her poetry book, [When The Body Meets A Star](https://billimarie.com), was 100% crowdfunded)
 
 # What Does She Teach and Share?
 
